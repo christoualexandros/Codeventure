@@ -102,7 +102,7 @@ You can find our reflections here:
 * Dimitar Zhekov — Project leader, tech lead, GUI and backend.
 * Stefanos Kritikos — GUI and backend.
 * Sofia Constantinou — Tests, GUI, some controllers.
-* Alex Christou — Tests and assignments.
+* Alex Christou — Tests, backend and assignments.
 * Efe Koç — Tests, asset collections, some services.
 * Nicole Almeida — Styling and tests.
   
